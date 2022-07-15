@@ -35,6 +35,7 @@ public class AmazonWishListTakeScreenshot extends BaseTest{
 		//Take screenshot
 		
 		TakesScreenshot ts = (TakesScreenshot) driver;
+		//TakesScreenshot ts = (TakesScreenshot) driver;
 		File catured = ts.getScreenshotAs(OutputType.FILE);
 		
 		
