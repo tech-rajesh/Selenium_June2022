@@ -1,0 +1,39 @@
+2022-07-11 10:46:30,105 [main] INFO IBM_HRM_Login_Module - Chrome browser launched....
+2022-07-11 10:46:33,719 [main] INFO IBM_HRM_Login_Module - HRM Application launched successfully.
+2022-07-11 10:46:34,041 [main] INFO IBM_HRM_Login_Module - .......Test Case: Login execution in progress.........
+2022-07-11 10:46:34,181 [main] INFO IBM_HRM_Login_Module - enter username ... Admin
+2022-07-11 10:46:34,306 [main] INFO IBM_HRM_Login_Module - enter password ... admin123
+2022-07-11 10:46:38,776 [main] INFO IBM_HRM_Login_Module - click on Login button
+2022-07-11 10:46:38,905 [main] INFO IBM_HRM_Login_Module - verification of DashBoard passed.
+2022-07-11 10:46:38,906 [main] INFO IBM_HRM_Login_Module - Text: ==============Dashboard
+2022-07-11 10:46:38,920 [main] INFO IBM_HRM_Login_Module - .......Test Case: Logout execution in progress.........
+2022-07-11 10:46:39,017 [main] INFO IBM_HRM_Login_Module - click on Welcome link
+2022-07-11 10:46:40,347 [main] INFO IBM_HRM_Login_Module - click on Logout link
+2022-07-11 10:46:40,362 [main] INFO IBM_HRM_Login_Module - Validation of application url passed !!
+2022-07-11 10:46:44,699 [main] INFO IBM_HRM_Login_Module - browser closed successfully.
+2022-07-11 10:49:48,850 [main] INFO IBM_HRM_Login_Module - Chrome browser launched....
+2022-07-11 10:49:52,615 [main] INFO IBM_HRM_Login_Module - HRM Application launched successfully.
+2022-07-11 10:49:52,869 [main] INFO IBM_HRM_Login_Module - .......Test Case: Login execution in progress.........
+2022-07-11 10:49:53,019 [main] INFO IBM_HRM_Login_Module - enter username ... Admin
+2022-07-11 10:49:53,147 [main] INFO IBM_HRM_Login_Module - enter password ... admin123
+2022-07-11 10:49:57,727 [main] INFO IBM_HRM_Login_Module - click on Login button
+2022-07-11 10:49:57,834 [main] INFO IBM_HRM_Login_Module - verification of DashBoard passed.
+2022-07-11 10:49:57,835 [main] INFO IBM_HRM_Login_Module - Text: ==============Dashboard
+2022-07-11 10:49:57,842 [main] INFO IBM_HRM_Login_Module - .......Test Case: Logout execution in progress.........
+2022-07-11 10:49:57,926 [main] INFO IBM_HRM_Login_Module - click on Welcome link
+2022-07-11 10:50:17,498 [main] INFO IBM_HRM_Login_Module - browser closed successfully.
+2022-07-13 09:35:51,042 [main] INFO IBM_HRM_Login_Module - Chrome browser launched....
+2022-07-13 09:35:56,662 [main] INFO IBM_HRM_Login_Module - HRM Application launched successfully.
+2022-07-13 09:35:56,829 [main] INFO IBM_HRM_Login_Module - .......Test Case: Login execution in progress.........
+2022-07-13 09:35:57,005 [main] INFO IBM_HRM_Login_Module - enter username ... Admin
+2022-07-13 09:35:57,241 [main] INFO IBM_HRM_Login_Module - enter password ... admin123
+2022-07-13 09:36:02,239 [main] INFO IBM_HRM_Login_Module - click on Login button
+2022-07-13 09:36:02,381 [main] INFO IBM_HRM_Login_Module - verification of DashBoard passed.
+2022-07-13 09:36:02,382 [main] INFO IBM_HRM_Login_Module - Text: ==============Dashboard
+2022-07-13 09:36:02,383 [main] INFO IBM_HRM_Login_Module - .......Test Case: Logout execution in progress.........
+2022-07-13 09:36:02,472 [main] INFO IBM_HRM_Login_Module - click on Welcome link
+2022-07-13 09:36:03,853 [main] INFO IBM_HRM_Login_Module - click on Logout link
+2022-07-13 09:36:03,878 [main] INFO IBM_HRM_Login_Module - Validation of application url passed !!, applicationURL: https://opensource-demo.orangehrmlive.com/index.php/auth/login
+2022-07-13 09:36:08,068 [main] INFO IBM_HRM_Login_Module - browser closed successfully.
+2022-07-13 10:03:20,448 [main] INFO Org_Automation_Logger - Chrome Browser Launch Sucessfully
+2022-07-13 10:03:22,591 [main] INFO Org_Automation_Logger - Orange HRM application Launch Sucessfully in chrome browser

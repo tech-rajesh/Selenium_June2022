@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-07-14T10:23:02 IST" name="Suite" finished-at="2022-07-14T10:23:23 IST" duration-ms="21060">
+    <groups>
+    </groups>
+    <test started-at="2022-07-14T10:23:02 IST" name="WIN_Test" finished-at="2022-07-14T10:23:22 IST" duration-ms="19781">
+      <class name="gridExample.HRMLoginTest">
+        <test-method is-config="true" signature="launchApp(java.lang.String)[pri:0, instance:gridExample.HRMLoginTest@4da4253]" started-at="2022-07-14T10:23:02 IST" name="launchApp" finished-at="2022-07-14T10:23:11 IST" duration-ms="8665" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[win]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchApp -->
+        <test-method signature="login()[pri:1, instance:gridExample.HRMLoginTest@4da4253]" started-at="2022-07-14T10:23:11 IST" name="login" finished-at="2022-07-14T10:23:15 IST" duration-ms="3685" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="logout()[pri:2, instance:gridExample.HRMLoginTest@4da4253]" started-at="2022-07-14T10:23:15 IST" name="logout" finished-at="2022-07-14T10:23:18 IST" duration-ms="2842" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+        <test-method is-config="true" signature="closeApp()[pri:0, instance:gridExample.HRMLoginTest@4da4253]" started-at="2022-07-14T10:23:18 IST" name="closeApp" finished-at="2022-07-14T10:23:22 IST" duration-ms="4526" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeApp -->
+      </class> <!-- gridExample.HRMLoginTest -->
+    </test> <!-- WIN_Test -->
+    <test started-at="2022-07-14T10:23:02 IST" name="MAC_Test" finished-at="2022-07-14T10:23:23 IST" duration-ms="21060">
+      <class name="gridExample.HRMLoginTest">
+        <test-method is-config="true" signature="launchApp(java.lang.String)[pri:0, instance:gridExample.HRMLoginTest@4e7912d8]" started-at="2022-07-14T10:23:02 IST" name="launchApp" finished-at="2022-07-14T10:23:12 IST" duration-ms="9619" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[mac]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchApp -->
+        <test-method signature="login()[pri:1, instance:gridExample.HRMLoginTest@4e7912d8]" started-at="2022-07-14T10:23:12 IST" name="login" finished-at="2022-07-14T10:23:17 IST" duration-ms="4959" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="logout()[pri:2, instance:gridExample.HRMLoginTest@4e7912d8]" started-at="2022-07-14T10:23:17 IST" name="logout" finished-at="2022-07-14T10:23:19 IST" duration-ms="1825" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+        <test-method is-config="true" signature="closeApp()[pri:0, instance:gridExample.HRMLoginTest@4e7912d8]" started-at="2022-07-14T10:23:19 IST" name="closeApp" finished-at="2022-07-14T10:23:23 IST" duration-ms="4643" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeApp -->
+      </class> <!-- gridExample.HRMLoginTest -->
+    </test> <!-- MAC_Test -->
+  </suite> <!-- Suite -->
+</testng-results>
