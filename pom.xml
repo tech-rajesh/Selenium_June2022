@@ -31,8 +31,7 @@
 					<suiteXmlFiles>
 					<!-- 	<suiteXmlFile>testng_logging.xml</suiteXmlFile> -->
 						<suiteXmlFile>testng_POM.xml</suiteXmlFile>
-						<suiteXmlFile>testng_log4JExample.xml</suiteXmlFile> 
-						<suiteXmlFile>testng_log4JExample.xml</suiteXmlFile> 
+						
 					</suiteXmlFiles>
 				</configuration>
 			</plugin>
